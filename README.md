@@ -55,4 +55,18 @@ public class Hello{
 [PCWK_CAFE](https://cafe.daum.net/pcwk "설명문구")
 
 ### 8. 이미지 넣기
+![로고](https://github.com/SeunghwiHeo/README_MD/blob/main/doc/images/%EB%A1%9C%EA%B3%A0.png)
 
+### 9. 글자 강조(Emphasis)
+**굵은 글씨**  
+*이탤릭*  
+~~취소선~~  
+
+### 10. 표
+|Header|Value|Description|
+|:-------:|:-------|-------:|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
+|1|자바|웹 최강 언어|
